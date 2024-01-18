@@ -6,8 +6,8 @@
 #include <SPI.h>
 #include <Audio.h>
 
-const char* ssid = "Beezernet2.0";
-const char* password = "Oliver2729$";G
+const char* ssid = "";
+const char* password = "";
 
 // I2S Connections
 #define I2S_DOUT      25
